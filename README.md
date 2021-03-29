@@ -1,6 +1,8 @@
+
+
 # SingleCellR
 对单细胞测序的学习，跟着流程走‘CNS图表复现’走
-
+[jimmy的单细胞课程](https://mp.weixin.qq.com/s?__biz=MzAxMDkxODM1Ng%3D%3D&mid=2247496154&idx=3&sn=d3cfaa4a5b18235e0192619f64641635&scene=45#wechat_redirect)
 ### 初级分析
 
 - [单细胞转录组基础分析一：分析环境搭建](http://mp.weixin.qq.com/s?__biz=MzI1Njk4ODE0MQ==&mid=2247488315&idx=1&sn=a5cb2f39c34f90d8f1c03e2f021f32de&chksm=ea1f15b9dd689cafa0e70cae1e745113ba722055cef940f200ad111c3ed18227ed7f918a6547&scene=21#wechat_redirect)
