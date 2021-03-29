@@ -79,3 +79,5 @@ ggsave("04_subCluster/tSNE_celltype.pdf", p1, width=7 ,height=6)
 ggsave("04_subCluster/UMAP_celltype.pdf", p2, width=7 ,height=6)
 ggsave("04_subCluster/celltype.pdf", p3, width=10 ,height=5)
 ggsave("04_subCluster/celltype.png", p3, width=10 ,height=5)
+
+save(scRNA, file="./2.results/04_subCl_scRNA.rdata")

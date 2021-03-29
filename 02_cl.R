@@ -95,4 +95,4 @@ plotc <- plot1+plot2+ plot_layout(guides = 'collect')
 ggsave("02_cluster/tSNE_UMAP.pdf", plot = plotc, width = 10, height = 5)
 ggsave("02_cluster/tSNE_UMAP.png", plot = plotc, width = 10, height = 5)
 ##保存数据
-save(scRNA, file="./2.results/02_dr_scRNA.rdata")
+save(scRNA, file="./2.results/02_cluster_scRNA.rdata")
