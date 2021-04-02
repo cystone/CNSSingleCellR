@@ -2,7 +2,7 @@ suppressMessages(library(tidyverse))
 suppressMessages(library(pacman))
 suppressMessages(library(data.table))
 
-wkPath <- c('./1.plot',  './2.results','./3.input', './4_download')
+wkPath <- c('./download')
 for(i in wkPath){
   wkPathi = i
   # wkPathi = paste0(sectionName, '/', i)
